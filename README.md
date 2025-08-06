@@ -19,6 +19,6 @@ const taiane = {
   studies: "Information Systems at UNIMATER",
   role: "QA Analyst",
   learning: ["Python", "Java (basic)", "Front-end (beginner)"],
-  tools: ["Figma (basic)", "Git", "GitHub", "Postman", "Selenium"],
+  tools: ["Figma (basic)", "Git", "GitHub", "Postman"],
 }
 
