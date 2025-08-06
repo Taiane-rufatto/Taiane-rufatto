@@ -14,7 +14,7 @@ Working as a <strong>QA Analyst</strong> and passionate about technology and UX 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - 📚 I'm learning: **Python**, **basic Java**, and **front-end development**
-- 🛠️ Tools I use: **Figma (basic)**, **Git**, **GitHub**, **Postman**, **Selenium**
+- 🛠️ Tools I use: **Figma (basic)**, **Git**, **GitHub**, **Postman**
 - 💡 I'm curious about **UX Design** and love understanding how users interact with systems
 - 🤝 I enjoy connecting with people and sharing experiences
 
