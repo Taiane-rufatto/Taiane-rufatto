@@ -1,5 +1,3 @@
-
-
 <h2> Hi, I'm Taiane Queirós Rufatto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkanNxMG9lcmU3aW9oZHg4MjMwd2FnZm5rcGlvZWwwYmgyZWVuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z7DaJ3vjTBWsE/giphy.gif" width="230">
 
@@ -8,12 +6,12 @@
 Working as a <strong>QA Analyst</strong> and passionate about technology and UX Design.
 </em></p>
 
-[![LinkedIn: taianerufatto](https://img.shields.io/badge/-taianerufatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taianerufatto/)](https://www.linkedin.com/in/taiane-rufatto-118b77199/)
+[![LinkedIn: taianerufatto](https://img.shields.io/badge/-taianerufatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taiane-rufatto-118b77199/)](https://www.linkedin.com/in/taiane-rufatto-118b77199/)
 [![GitHub Taiane](https://img.shields.io/github/followers/taianerufatto?label=follow&style=social)](https://github.com/Taiane-rufatto)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 📚 I'm learning: **Python**, **basic Java**, and **front-end development**
+- 📚 I'm learning: **Python** and **front-end development**
 - 🛠️ Tools I use: **Figma (basic)**, **Git**, **GitHub**, **Postman**
 - 💡 I'm curious about **UX Design** and love understanding how users interact with systems
 - 🤝 I enjoy connecting with people and sharing experiences
