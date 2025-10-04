@@ -7,7 +7,7 @@ Working as a <strong>QA Analyst</strong> and passionate about technology and UX 
 </em></p>
 
 [![LinkedIn: taianerufatto](https://img.shields.io/badge/-taianerufatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taiane-rufatto-118b77199/)](https://www.linkedin.com/in/taiane-rufatto-118b77199/)
-[![GitHub Taiane](https://img.shields.io/github/followers/taianerufatto?label=follow&style=social)](https://github.com/Taiane-rufatto)
+[![GitHub Taiane](https://img.shields.io/github/followers/Taiane-rufatto?label=follow&style=social)](https://github.com/Taiane-rufatto)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -18,4 +18,5 @@ Working as a <strong>QA Analyst</strong> and passionate about technology and UX 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <em><b>I love connecting with people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
 
